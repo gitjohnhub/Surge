@@ -1,3 +1,4 @@
+fileToCompare = "Antirevoke.list"
 def readFiles(filename):
     rule =[]
     mylines = []
@@ -9,11 +10,11 @@ def readFiles(filename):
                 address = myline.split(',')[1]
                 rule.append(address)
         return rule
-libyrule = readFiles("Liby.list")
+libyrule = readFiles(fileToCompare)
 nobydarule = readFiles("AdRule.list")
 for address in libyrule:
     if address not in nobydarule:
-        with open("Liby.list") as file:
+        with open(fileToCompare) as file:
             mylines = file.readlines()
             for myline in mylines:
               if myline.strip():
