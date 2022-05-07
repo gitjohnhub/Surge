@@ -1,4 +1,5 @@
 # Global.list
+DOMAIN-SUFFIX,githubusercontent.com
 
 # > Gmail
 DOMAIN,pop.gmail.com
