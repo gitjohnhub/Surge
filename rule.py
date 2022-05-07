@@ -1,4 +1,4 @@
-fileToCompare = "AsianMedia.list"
+fileToCompare = "WeChat.list"
 def readFiles(filename):
     rule =[]
     mylines = []
