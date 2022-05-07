@@ -1,4 +1,4 @@
-fileToCompare = "Antirevoke.list"
+fileToCompare = "AsianMedia.list"
 def readFiles(filename):
     rule =[]
     mylines = []
@@ -11,7 +11,7 @@ def readFiles(filename):
                 rule.append(address)
         return rule
 libyrule = readFiles(fileToCompare)
-nobydarule = readFiles("AdRule.list")
+nobydarule = readFiles("Domestic.list")
 for address in libyrule:
     if address not in nobydarule:
         with open(fileToCompare) as file:
