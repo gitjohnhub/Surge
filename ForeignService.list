@@ -332,7 +332,6 @@ DOMAIN-SUFFIX,softfamous.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,ssrcloud.org
 DOMAIN-SUFFIX,startpage.com
-DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,steemitwallet.com
 DOMAIN-SUFFIX,t66y.com
@@ -571,8 +570,7 @@ DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
-DOMAIN,api.steampowered.com
-DOMAIN,store.steampowered.com
+
 
 
 # GlobalMedia.list

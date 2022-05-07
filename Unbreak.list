@@ -1,5 +1,21 @@
 # Unbreak
 # > General
+
+
+DOMAIN-SUFFIX,vuejs.org
+DOMAIN-SUFFIX,gitee.io
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,docschina.org
+DOMAIN-SUFFIX,webpack.js.org
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,meijutt.tv
+DOMAIN-SUFFIX,raywenderlich.com,DIRECT
+DOMAIN-SUFFIX,nfmovies.com
+DOMAIN-SUFFIX,codepen.io
+DOMAIN,affinity.serif.com
+
+
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
 DOMAIN,bdtj.tagtic.cn
