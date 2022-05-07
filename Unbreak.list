@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,raywenderlich.com,DIRECT
 DOMAIN-SUFFIX,nfmovies.com
 DOMAIN-SUFFIX,codepen.io
 DOMAIN,affinity.serif.com
-
+DOMAIN-SUFFIX,nodejs.org
 
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
