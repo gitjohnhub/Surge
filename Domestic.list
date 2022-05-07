@@ -16,7 +16,10 @@ PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,DownloadService
 PROCESS-NAME,Weiyun
-
+# aliyunpan
+DOMAIN-SUFFIX,mmstat.com,DIRECT
+DOMAIN,log.mmstat.com,DIRECT
+DOMAIN-SUFFIX,aliyundrive.com,DIRECT
 # bt
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
